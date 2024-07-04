@@ -7,9 +7,6 @@ body{
 #ImagemDeFundo {
     width: 100%;
     background-repeat: no-repeat;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     position: fixed;
-    transform: translate(-50%);
+    margin-top: -60%;
   }
