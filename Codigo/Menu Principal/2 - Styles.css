@@ -8,5 +8,24 @@ body{
     width: 100%;
     background-repeat: no-repeat;
     position: fixed;
-    margin-top: -60%;
-  }
+    margin-top: -65%;
+}
+
+/* TÍTULO */
+h1{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ESTÁGIO */
+/*h2{
+
+}*/
+
+/* VERSÃO */
+/*p{
+
+}*/
